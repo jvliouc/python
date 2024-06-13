@@ -8,4 +8,7 @@ x=0
 while x<=32:
     print(x)
     x+=1
-    
+def funcion(m,n):
+    l=m+n
+    print(l)
+funcion(3,5)
